@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikhil - Introduction</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 12px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Introduction</h1>
+        <p>
+            Name: Nikhil<br>
+            Profession: Tech Lead<br>
+            Educational Background: MBA and BBM<br>
+            Total Years of Experience: 20 years
+        </p>
+        <p>
+            Welcome to my introduction page! I am Nikhil, a Tech Lead with a diverse educational background in both MBA and BBM. Over the course of my career, I have accumulated valuable experience, totaling 20 years, in various domains and industries.
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra neque a metus fringilla tincidunt. Integer cursus neque a elementum convallis. Duis id finibus justo. Proin ultrices velit vitae leo efficitur, nec euismod nunc feugiat. Praesent facilisis justo vel mauris hendrerit, ut interdum nisl varius. Etiam malesuada rhoncus felis, nec pellentesque ligula vehicula sit amet. Vestibulum laoreet elit nec tellus posuere tristique. Nunc vitae ante bibendum, lobortis odio at, accumsan odio.
+        </p>
+    </div>
+</body>
+</html>
 
